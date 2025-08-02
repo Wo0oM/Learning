@@ -1,0 +1,376 @@
+
+
+* Keywords
+- There are 32 Keywords in GNU C Language.
+
+|--------+--------+--------+----------+----------+---------+-----------+--------|
+| auto   | break  | case   | char     | const    | contnue | default   | do     |
+|--------+--------+--------+----------+----------+---------+-----------+--------|
+| double | else   | enum   | extern   | float    | for     | goto      | if     |
+|--------+--------+--------+----------+----------+---------+-----------+--------|
+| inline | int    | long   | register | restrict | return  | short     | signed |
+|--------+--------+--------+----------+----------+---------+-----------+--------|
+| sizeof | static | struct | switch   | typedef  | union   | unsigneed | void   |
+|--------+--------+--------+----------+----------+---------+-----------+--------|
+
+** auto
+- something about auto keywords
+  #+begin_src c
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+
+  #+end_src
+
+** break
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** case
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** char
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** const
+-
+  #+begin_src c
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** continue
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** default
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+  
+** do
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+
+** double
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+  
+** else
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** enum
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** extern
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** float
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+
+** for
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+
+** goto
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+
+** if
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+
+** inline
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** int
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** long
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** register
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** restrict
+- Something about the break keywords
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** return
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+
+
+
+** short
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** signed
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** sizeof
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** static
+- Something about static
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** struct
+- something about struct
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** switch
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+  #+end_src
+
+** typedef
+- Something about typedef
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+
+  #+end_src
+
+** Union
+- something about union
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+    
+  #+end_src
+
+** unsigned
+-
+  #+begin_src c
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+    
+  #+end_src
+
+** void
+-
+  #+begin_src C
+    #include<stdio.h>
+
+    int main(){
+
+      return 0;
+    }
+    
+  #+end_src

@@ -1,0 +1,7 @@
+
+* Flow of the Learning
+- Lexical Elements
+- Data types
+- Expressions, Operators, Statements
+- Structure and Scope
+- Code Reusablility
